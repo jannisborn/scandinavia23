@@ -17,7 +17,7 @@ We generally travelled by train, starting from Zurich (CH), via Germany and Denm
 Throughout the vacation, we either slept underway (~4 nights train, 3 nights boat), in the car (~7 nights), in a spontaneous airbnb (~3 nights) or outdoors  in a bivouac (~3 nights) camped almost every night, either sleeping in the car or. 
 
 ## Images:
-![Panel](https://github.com/jannisborn/us-roadtrip/blob/master/assets/images/header.jpg?raw=true | width=50)
+![Panel](https://github.com/jannisborn/scandinavia23/collage.jpg?raw=true | width=70)
 Please click [here](https://drive.google.com/open?id=1ZX85_qFlc1WW-ENLEAJf3IX8SaJ_KviJ) to get to the Drive folder with the best images :)
 
 ## Day-by-day:
