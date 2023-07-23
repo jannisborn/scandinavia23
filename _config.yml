@@ -12,9 +12,9 @@ theme: jekyll-theme-cayman
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: US Roadtrip Summer 2019
+title: Scandinavia summer trip 2023
 email: jannis.born@gmx.de, ninawiedemann999@gmail.com
-description: An epic 3-week roadtrip in Western US including 9 states and 9 national parks! #>- # this means to ignore newlines until "baseurl:"
+description: An epic 3-week scandinavia roundtrip including 4 countries, 8000km and breathtaking views! #>- # this means to ignore newlines until "baseurl:"
 
 # Variables:
 header: /assets/images/header.jpg
