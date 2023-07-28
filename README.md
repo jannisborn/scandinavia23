@@ -1,5 +1,5 @@
 # Scandinavia summer trip
-In summer 2023, we did a 3 week Interrail trip in Scandinavia. The purpose of this website is to share our quite unusual travel route.
+In summer 2023, we did a 3 week Interrail trip in Scandinavia. Here we share our travel route and experience :grin:
 
 [If you don't see HMTL, click here.](https://jannisborn.github.io/scandinavia23/)
 
