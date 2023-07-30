@@ -69,7 +69,7 @@ Here we rent bikes (crazy, they dont have normal bikes, *only* ebikes) and we go
 ### Day 9: Geiranger - Andalsnes 
 
 We slept in the car next to Eidsvatnet lake and continued on the *Golden Route* (take the 10-min ferry in Eidsdal) toward north. The route now approaches its culmination, the Trollstigen, a stellar viewpoint at a mountain pass. The road here is pretty spectacularily build into the steep landscape with dozens of switchbacks. It already opened in early 20th century and has been a big "attraction" of Norway since, however, living in Switzerland this is not too unusual. From Trollstigen we hike to the Troll wall which is the largest, vertical wall in Europe. Up to 1000m altogether, most of which entirely vertical! The views from the top are incredible. The hike is unfortunately a one-way hike (again), but we're almost alone on the track so it's a great option to escape the crowds from the Golden Route (generally this has been the busiest part of the entire journey). After the hike (12km, 800hm), we drive to Andalsnes and then sleep in the car next to a lake in Vengedal, a small valley east of Andalsnes that is the perfect starting point for the hike on the next day
-[:wall: See the **Troll wall** hike with pics here :mount_fuji:](https://www.strava.com/activities/9419512173).
+[:mount_fuji: See the **Troll wall** hike with pics here :mount_fuji:](https://www.strava.com/activities/9419512173).
 
 
 ### Day 10: Andalsnes - Trondheim (night train to Bodo)
